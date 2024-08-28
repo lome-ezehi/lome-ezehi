@@ -6,11 +6,12 @@ Passionate and experienced fullstack developer with a strong technical skill set
 
 #### Web Programming Languages and Tools
 
-![317755_badge_html_html5_achievement_award_icon](https://github.com/user-attachments/assets/4befbb3c-4132-4106-b4a8-5ff8ff8b3535)
 ![317756_badge_css_css3_achievement_award_icon](https://github.com/user-attachments/assets/6f346c88-0457-49ba-97c6-c1d51692fcd1)
-![4373213_js_logo_logos_icon](https://github.com/user-attachments/assets/841a0e66-a5c6-48b1-b5bf-d0e7e3a9325f)
-![8666401_markdown_icon](https://github.com/user-attachments/assets/e0932215-5105-4a33-b394-3fb9c0149db7)
-![4691465_flutter_icon (1)](https://github.com/user-attachments/assets/25209287-a302-4d32-a1a5-952841cc9a7a)
+![652581_code_command_develop_javascript_language_icon](https://github.com/user-attachments/assets/5a9407b7-5ac3-4d8f-9468-72c6e8e65016)
+![298823_markdown_icon](https://github.com/user-attachments/assets/055897cd-f97d-4637-b552-1f21a0ee08fb)
+![7423887_react_react native_icon](https://github.com/user-attachments/assets/c13319aa-109a-4d25-a24a-34f82b055827)
+![4375050_logo_python_icon](https://github.com/user-attachments/assets/7e94fa90-2f45-4a83-bedd-0b7cf8bd581a)
+
 
 #### Projects
 [Recipe.com](https://lome-ezehi.github.io/Lome-recipe.com/)
