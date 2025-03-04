@@ -27,3 +27,5 @@ Passionate and experienced fullstack developer with a strong technical skill set
 
 [Github](https://github.com/lome-ezehi)
 
+[Email](Lomeezehi@gmail.com)
+
