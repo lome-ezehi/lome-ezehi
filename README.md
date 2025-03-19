@@ -30,5 +30,3 @@ Passionate and experienced fullstack developer with a strong technical skill set
 [Github](https://github.com/lome-ezehi)
 
 My Email: Lomeezehi@gmail.com
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
