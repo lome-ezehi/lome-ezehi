@@ -1,8 +1,8 @@
 # Ezehi Theddy Oseijoyalome
 
-#### 👨🏾‍💻 An aspiring fullstack developer  | 📍 Abuja, Nigeria.
+#### 👨🏾‍💻 Fullstack Developer  | 📍 Abuja, Nigeria.
 
-Passionate and experienced fullstack developer with a strong technical skill set aiming to leverage expertees in developing innovative web applications.
+I am a Passionate and experienced fullstack developer with a strong technical skill set, aiming to leverage my current knowledge and expertees in developing web applications.
 
 #### Web Programming Languages and Tools
 
