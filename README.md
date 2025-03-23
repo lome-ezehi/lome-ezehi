@@ -13,6 +13,9 @@ Passionate and experienced fullstack developer with a strong technical skill set
 ![php](https://github.com/user-attachments/assets/9fa16fe1-7a4b-4dd5-b042-182c78065978)
 ![4373205_laravel_logo_logos_icon](https://github.com/user-attachments/assets/9c20b095-10e6-4f4b-b6cb-f772bacbdcb5)
 ![9080412_brand_bootstrap_icon](https://github.com/user-attachments/assets/0c9fad6c-1984-4dc2-9803-c6f593cb34ba)
+![image](https://github.com/user-attachments/assets/8a0edb54-e762-47d6-8cf5-49cf7d7c7a14)
+
+
 
 
 #### Projects
