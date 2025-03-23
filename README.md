@@ -23,10 +23,6 @@ I am a Passionate and experienced fullstack developer with a strong technical sk
 
 [Recipe.com-2.0](https://lome-ezehi.github.io/recipe.com-2.0/)
 
-[Mario-club](https://lome-ezehi.github.io/marioClub)
-
-[Project-Zenith](https://lome-ezehi.github.io/Project-Zenith/)
-
 #### Reach me:
 [Whatsapp](https://wa.me/+2348136763185)
 
